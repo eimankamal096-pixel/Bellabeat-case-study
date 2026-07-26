@@ -85,7 +85,7 @@ ORDER BY
   avg_steps DESC;
 
 
-## 📊 Phase 5: Share (Data Visualization)
+#### 📊 Phase 5: Share (Data Visualization)
 
 The chart highlights the **Sunday Slump**, showcasing the drop in average steps over the weekend rest period:
 
